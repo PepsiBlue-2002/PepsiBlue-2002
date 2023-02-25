@@ -22,8 +22,13 @@ https://gist.github.com/rxaviers/7360908
 <!-- These icons found at:
 https://github.com/devicons/devicon.git
 -->
+<br>
 
+![Profile views](https://gpvc.arturio.dev/PepsiBlue-2002)
 
+<!--Link to Profile Views counter:
+https://github.com/arturssmirnovs/github-profile-views-counter.git
+-->
 
 <!--
 **PepsiBlue-2002/PepsiBlue-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
