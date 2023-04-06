@@ -1,5 +1,5 @@
 ### :floppy_disk: What's Going On?  :
-- :computer: Attending NuCamp Coding Bootcamp for Full Stack Development.
+- :computer: NuCamp Graduate of Full Stack Development course.
 - :office: Looking for work in the tech field.
 - :pineapple: Adding pineapple to my pizza and you can't stop me.
 
